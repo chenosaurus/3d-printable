@@ -1,4 +1,4 @@
 3d-printable
 ============
 
-collection of printable objects I designed
+A collection of printable objects I designed in .skp and .stl
